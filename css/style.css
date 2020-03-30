@@ -1,0 +1,8 @@
+body.back{
+	background: #000 url('../imagens/multi.png');
+}
+fieldset.result{
+	width: 400px;
+	height: 400px;
+	background-color: #FFFFFF;
+}
